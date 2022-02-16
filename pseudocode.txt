@@ -1,0 +1,5 @@
+the goal is to create a simple version of rock, paper, scissors
+player plays against the computer who returns one of three responses randomly
+player inputs one of three options
+code must acknowledge the hierarchy of rock vs paper vs scissors
+code must output correct win lose status
