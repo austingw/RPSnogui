@@ -28,5 +28,4 @@ function game() {
     } else if(computerScore == playerScore) {'HOW CAN THIS BE? ITS A TIE'}
 }
    
-
 console.log(game())
